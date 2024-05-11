@@ -1,19 +1,18 @@
-- name: Software Engineer Keywords
+- name: Software Engineer
   keywords:
-      - Java
-      - C++
+      - Rust
+      - C
       - Python
-      - Design Patterns
+      - Security Tool Dev
 
-- name: Mobile Developer Keywords
+- name: Vehicles Security Engineer
   keywords:
-      - Android
+      - Vehicles Firmware Reverse
+      - Vehicles research
+      - Vehicles pentest
+
+- name: Binary Security Research
+  keywords:
       - Reverse Engineering
-
-- name: Windows Developer Keywords
-  keywords:
-      - Win32 SDK
-      - DuiLib
-      - WTL
-      - COM
-      - WinDbg
+      - IOT Reverse & Binary Research
+      - Linux Security(R0&R3) Research
