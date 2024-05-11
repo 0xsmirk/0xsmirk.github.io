@@ -84,7 +84,7 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 如果对本博客模板或者内容有任何建议，可以通过 [Issues](https://github.com/0xsmirk/0xsmirk.github.io/issues) 或者微信取得联系。
 
-<img width="192px" height="192px" src="https://0xsmirk.github.io/assets/images/qrcode.jpg"/>
+<img width="192px" height="192px" src="https://0xsmirk.github.io/assets/images/qrcode.png"/>
 
 ## 致谢
 
