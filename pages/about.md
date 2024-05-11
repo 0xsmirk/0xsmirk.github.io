@@ -19,10 +19,10 @@ permalink: /about/
 <li>{{website.sitename }}：<a href="{{ website.url }}" target="_blank">@{{ website.name }}</a></li>
 {% endfor %}
 {% if site.url contains '0xsmirk.github.io' %}
-<li>
+<!-- <li> -->
 <!-- 微信公众号：<br />
 <img style="height:192px;width:192px;border:1px solid lightgrey;" src="{{ site.url }}/assets/images/qrcode.jpg" alt="闷骚的程序员" /> -->
-</li>
+<!-- </li> -->
 {% endif %}
 </ul>
 
