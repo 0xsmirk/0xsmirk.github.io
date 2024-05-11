@@ -2,7 +2,7 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://0xsmirk.github.io
 date_format: "ordinal"
 title: 码志
 subtitle: "公众号：闷骚的程序员"
@@ -57,11 +57,11 @@ highlight_theme: github
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: smirk
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
+github_username: smirk
+location: Chengdu, China
 email: chumpma@gmail.com
 
 # ---------------- #
